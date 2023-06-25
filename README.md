@@ -39,7 +39,7 @@
 
 # 📖 Turoring Booking Backend <a name="about-project"></a>
 
-This app is an api for the Tutoring app.
+Tutoring App is a single page app that enables users to effortlessly manage classes, including adding, deleting, and viewing class details. It also provides reservation functionality, allowing users to make reservations and view their reservation details
 
 ## 🛠 Built With <a name="built-with"></a>
 
